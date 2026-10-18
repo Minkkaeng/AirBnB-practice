@@ -2,7 +2,7 @@
    "name": "airbnb",
    "version": "0.1.0",
    "private": true,
-   "homepage": "https://minkkaeng.github.io/AirBnB",
+   "homepage": "https://minkkaeng.github.io/AirBnB-practice",
    "dependencies": {
       "@testing-library/dom": "^10.4.1",
       "@testing-library/jest-dom": "^6.9.1",
